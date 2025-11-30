@@ -1,11 +1,11 @@
 {
   "name": "kimi-chat-ai",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "dev": "npm dev",
+    "build": "npm build",
+    "start": "npm start"
   },
   "dependencies": {
     "next": "14.2.5",
